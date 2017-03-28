@@ -1,9 +1,8 @@
 <?php
 /**
-* WP Github API
-* Designed to work with v3.0 (https://developer.github.com/v3) of the Github API.
+* WP SparkPlatform API (https://sparkplatform.com)
 *
-* @package WP-Github-API
+* @package WP-SparkPlatform-API
 */
 
 /*
